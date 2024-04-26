@@ -1,7 +1,7 @@
-package enums;
+package models;
 
 public enum GameState {
     IN_PROGRESS,
-    DRAWN,
+    DRAW,
     ENDED
 }
